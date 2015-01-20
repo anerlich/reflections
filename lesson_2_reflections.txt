@@ -1,0 +1,7 @@
+When you initialise a repository, Git creates a .git directory there which it 
+will then use to track changes and commits. It does not perform a commit.
+
+The staging area is where files are added before being committed. Once added to 
+a staging area from the working directory, those files will then be tracked by
+Git. Files can remain in the working directory untracked if not added to the
+staging area.
