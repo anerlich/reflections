@@ -5,3 +5,12 @@ The staging area is where files are added before being committed. Once added to
 a staging area from the working directory, those files will then be tracked by
 Git. Files can remain in the working directory untracked if not added to the
 staging area.
+
+The staging area can be used to take only the files related to the one logical
+change about which you are concerned, which can then be committed as a block.
+
+Branches are useful where you want to work on a different version of the 
+program without affecting the main thrust of the original version.
+
+Diagrams help visualise the branch structure by giving a visual indication of
+each branch's history.
