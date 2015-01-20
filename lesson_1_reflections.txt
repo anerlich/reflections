@@ -1,0 +1,26 @@
+Viewing a diff between two versions of a file highlighted only the changed
+lines, which common sense indicates must include the bug of the previous
+file was bug-free.
+
+Having easy access to the entire history of versions of a file could guard 
+against accidental deletions of info, and to always be able to find a way
+back to a known working version of a piece of code.
+
+Pros and cons of automatic save: doesn't allow you to go too long and have a 
+crash or human error wipe your work, but makes it difficult to pick a logical 
+place where changes occurred and to align a commit to it.
+
+Pros and cons of manual commit: Allows you to align physical changes with 
+logical updates, but are no good if you don't actually do them.
+
+Git treats files as a group because the information in them is often codependent
+and interrelated, whereas this isn't the case for Google Docs very often.
+
+Git log shows changes with a descriptino and hash. Git diff shows the individual
+alterations made to  each file line by line.
+
+VC can give me the confidence I can always find when a bug may have been 
+introduced and return to a version without the bug.
+
+I want to use Git to program effectively secure in the knowledge that my last 
+good copy of the code is always saved, and I have a history of changes.
