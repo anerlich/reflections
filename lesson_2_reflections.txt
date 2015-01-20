@@ -14,3 +14,6 @@ program without affecting the main thrust of the original version.
 
 Diagrams help visualise the branch structure by giving a visual indication of
 each branch's history.
+
+Automated merging handles the cases where there are no conflicts well, but
+leaves you to resolve conflicts it finds.
