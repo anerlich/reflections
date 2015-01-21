@@ -23,4 +23,8 @@ What is the benefit of having a copy of the last known state of the remote store
 so you can tell how far apart the local and last known state of the repos
 are, and so that any fetching need only concern itself with commits not already
 stored in both. I guess?
-So that you can tell how far apart y
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You'd have to keep sending each other stuff and ensure you didn't update stauf
+without telling everyone.
