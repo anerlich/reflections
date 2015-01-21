@@ -17,3 +17,10 @@ another computer.
 
 A branch is performed in a local repository to give an alternative development
 path which may later be merged back in.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+so you can tell how far apart the local and last known state of the repos
+are, and so that any fetching need only concern itself with commits not already
+stored in both. I guess?
+So that you can tell how far apart y
