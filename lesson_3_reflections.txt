@@ -9,3 +9,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I might want to track changes locally that I am not ready to commit to a public 
 repository to be used or viewed by others.
+
+A fork makes your personal copy of another repository, both on Github.
+
+A clone makes a copy of a repository on your computer either from Github or 
+another computer.
+
+A branch is performed in a local repository to give an alternative development
+path which may later be merged back in.
