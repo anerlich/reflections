@@ -26,5 +26,11 @@ stored in both. I guess?
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-You'd have to keep sending each other stuff and ensure you didn't update stauf
+You'd have to keep sending each other stuff and ensure you didn't update stuff
 without telling everyone.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a branch allows you to work on a new feature while still 
+maintaining the master branch with bug fexes, etc. Or allow centralised 
+control of updates.
